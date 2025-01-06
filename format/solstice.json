@@ -1,0 +1,9 @@
+{
+		"title": "Solstice Cup",
+		"cup": "solstice",
+		"cp": 2500,
+		"meta": "solstice",
+		"showCup": true,
+		"showFormat": true,
+		"showMeta": true
+	}
