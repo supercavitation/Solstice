@@ -127,6 +127,16 @@
     "weight": 4
   },
   {
+    "speciesId": "froslass",
+    "chargedMoves": ["AVALANCHE","SHADOW_BALL"],
+    "weight": 1
+  },
+  {
+    "speciesId": "froslass_shadow",
+    "chargedMoves": ["AVALANCHE","SHADOW_BALL"],
+    "weight": 1
+  },
+  {
     "speciesId": "gallade_shadow",
     "weight": 8
   },
@@ -194,6 +204,12 @@
     "weight": 1
   },
   {
+    "speciesId": "heliolisk",
+    "fastMove": "VOLT_SWITCH",
+    "chargedMoves": ["BREAKING_SWIPE","THUNDERBOLT"],
+    "weight": 1
+  },
+  {
     "speciesId": "hippowdon",
     "fastMove": "SAND_ATTACK",
     "chargedMoves": ["WEATHER_BALL_ROCK","SCORCHING_SANDS"],
@@ -207,16 +223,21 @@
   },
   {
     "speciesId": "hypno",
-    "chargedMoves": ["FIRE_PUNCH","SHADOW_BALL"],
+    "chargedMoves": ["THUNDER_PUNCH","SHADOW_BALL"],
     "weight": 1
   },
   {
     "speciesId": "hypno_shadow",
-    "chargedMoves": ["FIRE_PUNCH","ICE_PUNCH"],
+    "chargedMoves": ["THUNDER_PUNCH","SHADOW_BALL"],
     "weight": 1
   },
   {
     "speciesId": "kangaskhan",
+    "chargedMoves": ["POWER_UP_PUNCH","OUTRAGE"],
+    "weight": 1
+  },
+  {
+    "speciesId": "kangaskhan_mega",
     "chargedMoves": ["POWER_UP_PUNCH","OUTRAGE"],
     "weight": 1
   },
@@ -454,21 +475,22 @@
   {
     "speciesId": "snorlax",
     "fastMove": "LICK",
-    "chargedMoves": ["BODY_SLAM","EARTHQUAKE"],
+    "chargedMoves": ["BODY_SLAM","SUPER_POWER"],
     "weight": 1
   },
   {
     "speciesId": "snorlax_shadow",
-    "chargedMoves": ["BODY_SLAM","EARTHQUAKE"],
+    "chargedMoves": ["BODY_SLAM","SUPER_POWER"],
     "weight": 1
   },
   {
     "speciesId": "solrock",
+    "chargedMoves": ["ROCK_SLIDE","PSYCHIC"],
     "weight": 2
   },
   {
     "speciesId": "staraptor",
-    "fastMove": "SAND_ATTACK",
+    "fastMove": "QUICK_ATTACK",
     "chargedMoves": ["FLY","CLOSE_COMBAT"],
     "weight": 1
   },
@@ -505,7 +527,13 @@
   {
     "speciesId": "ursaluna",
     "fastMove": "TACKLE",
-    "chargedMoves": ["SWIFT","HIGH_HORSEPOWER"],
+    "chargedMoves": ["SWIFT","TRAILBLAZE"],
+    "weight": 1
+  },
+  {
+    "speciesId": "ursaluna_shadow",
+    "fastMove": "TACKLE",
+    "chargedMoves": ["SWIFT","TRAILBLAZE"],
     "weight": 1
   },
   {
