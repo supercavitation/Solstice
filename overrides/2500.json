@@ -513,6 +513,12 @@
     "weight": 1
   },
   {
+    "speciesId": "swampert_mega",
+    "fastMove": "MUD_SHOT",
+    "chargedMoves": ["HYDRO_CANNON","SLUDGE_WAVE"],
+    "weight": 1
+  },
+  {
     "speciesId": "swampert_shadow",
     "fastMove": "MUD_SHOT",
     "chargedMoves": ["HYDRO_CANNON","SLUDGE_WAVE"],
